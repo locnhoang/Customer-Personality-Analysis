@@ -1,11 +1,4 @@
 # Customer Trend Modeling for Business Optimization
-
-**CSE 4095-003**  
-**Contributors:** Kaitlyn Ha, Loc Hoang, Allen Choun  
-**Spring 2025 | University of Connecticut**
-
----
-
 ##  Overview
 
 This project applies data science methods to model customer behaviors and identify actionable business strategies using the [Customer Personality Analysis Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). We used three key techniques—**Linear Regression**, **K-Means Clustering**, and **Time Series Analysis**—to explore consumer patterns, segment customer groups, and forecast purchasing behaviors.
@@ -59,6 +52,6 @@ Despite this, the challenge of deriving insights from an ambiguous dataset mirro
 
 ---
 
-## 📚 References
+## References
 
 - [Customer Personality Analysis Dataset – Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
